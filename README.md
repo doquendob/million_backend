@@ -6,7 +6,6 @@ A .NET 8 Web API for managing real estate property listings. This backend provid
 
 - ✅ Full CRUD operations for Properties
 - ✅ Category management
-- ✅ In-Memory database (easy setup, no external DB required)
 - ✅ CORS enabled for frontend integration
 - ✅ Swagger/OpenAPI documentation
 - ✅ Data validation with DTOs
